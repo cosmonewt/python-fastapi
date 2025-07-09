@@ -5,6 +5,7 @@ cffi==1.17.1
 charset-normalizer==3.4.2
 click==8.1.8
 colorama==0.4.6
+country-converter==1.3
 cryptography==44.0.3
 defusedxml==0.7.1
 e==1.4.5
@@ -17,7 +18,6 @@ httpx==0.28.1
 idna==3.10
 iniconfig==2.1.0
 kaleido==0.1.0.post1
-main @ file:///C:/Users/admin/Documents/Programming/github/fastapi_lubanovic
 markdown-it-py==3.0.0
 mdurl==0.1.2
 multidict==6.4.3
